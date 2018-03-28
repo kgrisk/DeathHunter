@@ -2,7 +2,7 @@
 3D Top-Down Shooter made with Unity game engine.
 
 # Acknowledgments
-all the art was taken from  [Unity Assets Store](https://assetstore.unity.com/).
+All the art was taken from  [Unity Assets Store](https://assetstore.unity.com/).
 
 Music -  [freesound](http://freesound.org/)
 
