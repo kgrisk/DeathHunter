@@ -2,9 +2,9 @@
 3D Top-Down Shooter made with Unity game engine.
 
 # Acknowledgments
-all the art was taken from Unity Assets Store.
+all the art was taken from  [Unity Assets Store](https://assetstore.unity.com/).
 
-  [freesound](http://freesound.org/)
+Music -  [freesound](http://freesound.org/)
 
 # Gameplay
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/XGnlf6SLAqs/0.jpg)](http://www.youtube.com/watch?v=XGnlf6SLAqs "DeathHunter")
